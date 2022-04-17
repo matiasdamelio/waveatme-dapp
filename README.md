@@ -25,3 +25,5 @@ URL Frontend dapp
 ```
 https://waveportal-starter-project.matiasdamelio.repl.co/
 ```
+
+![DApp Screenshot](./images/front.PNG)
